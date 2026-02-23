@@ -4,6 +4,7 @@
     padding: 0px;
     margin: 0px;
     font-family: "Work Sans", sans-serif;
+    scroll-behavior: smooth;
 }
 .header{
     /* background-color: blue; */
